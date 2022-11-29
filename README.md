@@ -1,5 +1,6 @@
 # MSG-file-TO-CSV-extraction
 This is a simple Python Script that converts MSG to CSV 
+It searches (for .msg files) only in the SAME dir, in which you run the script.
 
 This script is very usefull in case you want to take standar fields of an MSG (via outlook mail) to extract data to CSV ( comma seperated)
 It takes every single WORD and puts it in a new ,comma, seperated braket
